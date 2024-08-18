@@ -1,6 +1,6 @@
 # Assignment-lab-intro-DS
-# NAME: V MYTHILI
-# DEPT: CSE
+# NAME: ARULARASI U
+# DEPT: CSE CYBER SECURITY
 # AIM:
 To write a python program for inserting columns, rows and changing these etc.
 # PROGRAM AND OUTPUT:
